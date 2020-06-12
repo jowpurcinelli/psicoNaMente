@@ -21,7 +21,9 @@ But We'll make something to implement the ideas on paper and or directly in the 
 
 
 
-
+----
+Techs to use:
+  React, Node, semantic, .......
 
 
 
